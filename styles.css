@@ -1,0 +1,31 @@
+*{
+    font-family: 'Noto Sans HK', sans-serif;
+    
+    
+}
+
+
+.separador {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+
+.separador .content {
+    background-color: rgb(207, 207, 218);
+    width: 150%;
+    height: 100px;
+    margin-left: -25%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+
+#tarjetas {
+    background-color: rgb(196, 240, 247);
+}
+
+#boton-footer {
+    background-color: rgb(196, 240, 247);
+}
